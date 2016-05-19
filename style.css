@@ -1,0 +1,28 @@
+/*header*/
+#header {}
+.navbar-default {
+    background-color: #fff;
+    border-color: #e4dc53;
+}
+.navbar-nav {
+    margin: 20px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+.navbar-nav>li {
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+.navbar-default .navbar-nav>li>a  {
+    float: left;
+    font-size: 25px;
+    font-family: roboto;
+    color: #227fad;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px #cdcdcd;
+    transition: 0.5;
+}
+/*header-page*/
